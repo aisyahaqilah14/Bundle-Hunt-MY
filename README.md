@@ -2,7 +2,7 @@
 
 Bundle Hunt MY is an Android application designed for the thrift community in Malaysia. It allows users to discover local thrift stores, share their latest "finds," and interact with other enthusiasts through a dedicated social feed and interactive map.
 
-✨ Features
+##✨ Features
 
 * Interactive Map: Locate thrift stores nearby using the Google Maps and Places SDK.
 * Social Feed: Post your thrifted outfits or items with descriptions and locations.
